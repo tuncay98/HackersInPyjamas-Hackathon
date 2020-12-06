@@ -1,0 +1,10 @@
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\bin\Debug\netstandard2.0\HackerInPyjamasML.Model.deps.json
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\bin\Debug\netstandard2.0\HackerInPyjamasML.Model.dll
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\bin\Debug\netstandard2.0\HackerInPyjamasML.Model.pdb
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.csprojAssemblyReference.cache
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.AssemblyInfoInputs.cache
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.AssemblyInfo.cs
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.dll
+C:\Users\tunca\Desktop\Hackathon\HackerInPyjamas\HackerInPyjamasML.Model\obj\Debug\netstandard2.0\HackerInPyjamasML.Model.pdb

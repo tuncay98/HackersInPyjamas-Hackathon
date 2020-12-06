@@ -4,14 +4,15 @@
     "description": "Checking Reliablity",
     "permissions": ["storage", "activeTab", "declarativeContent"],
     "background": {
-        "scripts": ["background.js"]
+        "persistent": true,
+        "scripts": ["signalr.js", "background.js"]
     },
     "browser_action": {
       "default_popup": "popup.html"
    },
     "content_scripts": [
         {
-          "matches": ["https://*.facebook.com/"],
+          "matches": ["https://*.facebook.com/*"],
           "js": ["contentscripts.js"]
         }
       ],    
